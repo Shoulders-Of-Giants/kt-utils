@@ -4,7 +4,6 @@
     <output url="file://$MODULE_DIR$/../../kt-utils-net/build/classes/main" />
     <exclude-output />
     <content url="file://$MODULE_DIR$/../../kt-utils-net/src/main">
-      <sourceFolder url="file://$MODULE_DIR$/../../kt-utils-net/src/main/java" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/../../kt-utils-net/src/main/kotlin" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/../../kt-utils-net/src/main/resources" type="java-resource" />
     </content>
