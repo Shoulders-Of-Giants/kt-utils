@@ -1,0 +1,3 @@
+[submodule "kt-utils-common"]
+	path = kt-utils-common
+	url = https://github.com/Nejat/kt-utils-common.git
