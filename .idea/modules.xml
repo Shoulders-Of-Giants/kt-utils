@@ -21,8 +21,6 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/kt-utils-windows.iml" filepath="$PROJECT_DIR$/.idea/modules/kt-utils-windows.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/kt-utils-windows_main.iml" filepath="$PROJECT_DIR$/.idea/modules/kt-utils-windows_main.iml" group="kt-utils-windows" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/kt-utils-windows_test.iml" filepath="$PROJECT_DIR$/.idea/modules/kt-utils-windows_test.iml" group="kt-utils-windows" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kt-utils_main.iml" filepath="$PROJECT_DIR$/.idea/modules/kt-utils_main.iml" group="kt-utils" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kt-utils_test.iml" filepath="$PROJECT_DIR$/.idea/modules/kt-utils_test.iml" group="kt-utils" />
     </modules>
   </component>
 </project>
