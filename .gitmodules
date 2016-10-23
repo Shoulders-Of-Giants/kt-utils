@@ -13,3 +13,6 @@
 [submodule "kt-utils-net"]
 	path = kt-utils-net
 	url = https://github.com/Nejat/kt-utils-net.git
+[submodule "kt-utils-rx"]
+	path = kt-utils-rx
+	url = https://github.com/Nejat/kt-utils-rx.git
