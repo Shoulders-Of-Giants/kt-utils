@@ -4,3 +4,6 @@
 [submodule "kt-utils-process"]
 	path = kt-utils-process
 	url = https://github.com/Nejat/kt-utils-process.git
+[submodule "kt-utils-windows"]
+	path = kt-utils-windows
+	url = https://github.com/Nejat/kt-utils-windows.git
