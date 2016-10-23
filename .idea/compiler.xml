@@ -19,6 +19,18 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="kt-utils-common_main" target="1.8" />
+      <module name="kt-utils-common_test" target="1.8" />
+      <module name="kt-utils-data_main" target="1.8" />
+      <module name="kt-utils-data_test" target="1.8" />
+      <module name="kt-utils-net_main" target="1.8" />
+      <module name="kt-utils-net_test" target="1.8" />
+      <module name="kt-utils-process_main" target="1.8" />
+      <module name="kt-utils-process_test" target="1.8" />
+      <module name="kt-utils-rx_main" target="1.8" />
+      <module name="kt-utils-rx_test" target="1.8" />
+      <module name="kt-utils-windows_main" target="1.8" />
+      <module name="kt-utils-windows_test" target="1.8" />
       <module name="kt-utils_main" target="1.8" />
       <module name="kt-utils_test" target="1.8" />
     </bytecodeTargetLevel>

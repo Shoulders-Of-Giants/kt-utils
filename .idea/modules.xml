@@ -3,6 +3,24 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/kt-utils.iml" filepath="$PROJECT_DIR$/.idea/modules/kt-utils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kt-utils-common.iml" filepath="$PROJECT_DIR$/.idea/modules/kt-utils-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kt-utils-common_main.iml" filepath="$PROJECT_DIR$/.idea/modules/kt-utils-common_main.iml" group="kt-utils-common" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kt-utils-common_test.iml" filepath="$PROJECT_DIR$/.idea/modules/kt-utils-common_test.iml" group="kt-utils-common" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kt-utils-data.iml" filepath="$PROJECT_DIR$/.idea/modules/kt-utils-data.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kt-utils-data_main.iml" filepath="$PROJECT_DIR$/.idea/modules/kt-utils-data_main.iml" group="kt-utils-data" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kt-utils-data_test.iml" filepath="$PROJECT_DIR$/.idea/modules/kt-utils-data_test.iml" group="kt-utils-data" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kt-utils-net.iml" filepath="$PROJECT_DIR$/.idea/modules/kt-utils-net.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kt-utils-net_main.iml" filepath="$PROJECT_DIR$/.idea/modules/kt-utils-net_main.iml" group="kt-utils-net" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kt-utils-net_test.iml" filepath="$PROJECT_DIR$/.idea/modules/kt-utils-net_test.iml" group="kt-utils-net" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kt-utils-process.iml" filepath="$PROJECT_DIR$/.idea/modules/kt-utils-process.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kt-utils-process_main.iml" filepath="$PROJECT_DIR$/.idea/modules/kt-utils-process_main.iml" group="kt-utils-process" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kt-utils-process_test.iml" filepath="$PROJECT_DIR$/.idea/modules/kt-utils-process_test.iml" group="kt-utils-process" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kt-utils-rx.iml" filepath="$PROJECT_DIR$/.idea/modules/kt-utils-rx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kt-utils-rx_main.iml" filepath="$PROJECT_DIR$/.idea/modules/kt-utils-rx_main.iml" group="kt-utils-rx" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kt-utils-rx_test.iml" filepath="$PROJECT_DIR$/.idea/modules/kt-utils-rx_test.iml" group="kt-utils-rx" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kt-utils-windows.iml" filepath="$PROJECT_DIR$/.idea/modules/kt-utils-windows.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kt-utils-windows_main.iml" filepath="$PROJECT_DIR$/.idea/modules/kt-utils-windows_main.iml" group="kt-utils-windows" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kt-utils-windows_test.iml" filepath="$PROJECT_DIR$/.idea/modules/kt-utils-windows_test.iml" group="kt-utils-windows" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/kt-utils_main.iml" filepath="$PROJECT_DIR$/.idea/modules/kt-utils_main.iml" group="kt-utils" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/kt-utils_test.iml" filepath="$PROJECT_DIR$/.idea/modules/kt-utils_test.iml" group="kt-utils" />
     </modules>
